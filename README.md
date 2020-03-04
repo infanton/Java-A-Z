@@ -9,7 +9,7 @@ Please make sure to update tests as appropriate.
 
 ## Authors
 
-* **Niko Infanto** - *Initial Work* - [LinkedIn](https://www.linkedin.com/in/niko-infanto/)
+* **Niko Infanto** - [LinkedIn](https://www.linkedin.com/in/niko-infanto/)
 
 ## License
 
