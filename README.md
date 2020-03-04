@@ -12,14 +12,4 @@ Please make sure to update tests as appropriate.
 * **Niko Infanto** - [LinkedIn](https://www.linkedin.com/in/niko-infanto/)
 
 ## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Ethensiatice 
-* Inspiration
-* etc
-
-## License
 [MIT](https://choosealicense.com/licenses/mit/)
