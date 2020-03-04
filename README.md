@@ -1,10 +1,3 @@
-# Bubble Sort 
-- Space Complexity: O(1)
-- Best Case: O(n)
-- Average Case: O(n^2)
-- Worst Case: O(n^2)
- 
-
 # SortingAlgorithms
 
 SortingAlgorithms is a directory of Java solutions to the most common sorting algorithms.
