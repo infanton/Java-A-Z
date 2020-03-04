@@ -1,4 +1,4 @@
-#JavaA-Z
+## JavaA-Z
 
 JavaA-Z is a directory of Java implementation to the most common sorting algorithms.
 
