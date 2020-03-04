@@ -1,6 +1,11 @@
-# SortingAlgorithms
-Java Sort Algorithms
+# Sorting Algorithms
+Sorting Algorithms implemented in Java
 
-In this video tutorial, Derek Banas does an excellent job explaining the different data structure
-http://www.newthinktank.com/2013/02/java-sort-algorithm/
+- Bubble Sort 
+ {
+ "Best Case" : "O(n)",
+ "Worst Case" : "O(n^2)",
+ "Average Case" : "O(n^2)",
+ "Space Complexity" : "O(1)"
+ }
 
