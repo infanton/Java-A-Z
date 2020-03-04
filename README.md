@@ -1,9 +1,9 @@
 # Sorting Algorithms implemented in Java
 
 Bubble Sort 
-> Best Case: O(n)
->> Worst Case: O(n^2)
+> Space Complexity: O(1)
+>> Best Case: O(n)
 >>> Average Case: O(n^2)
->>>> Space Complexity: O(1)
+>>>> Worst Case: O(n^2)
  
 
